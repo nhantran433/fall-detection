@@ -1,0 +1,10 @@
+numpy==2.1.1
+opencv-python==4.10.0.84
+pillow==10.4.0
+matplotlib==3.9.2
+deep_sort_realtime==1.3.2
+ultralytics==8.2.82
+enum==0.4.7
+scikit-learn==1.5.1
+tensorflow==2.17.0
+pydantic==2.8.2
